@@ -1,13 +1,2 @@
 ---
-labels:
-  # Areas
-  - name: area/bootstrap
-    color: "0e8a16"
-  - name: area/github
-    color: "0e8a16"
-  - name: area/kubernetes
-    color: "0e8a16"
-  - name: area/renovate
-    color: "0e8a16"
-  - name: area/talos
-    color: "0e8a16"
+# Settings specific to home-ops can go here
