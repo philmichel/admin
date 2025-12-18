@@ -4,7 +4,7 @@ name: Renovate
 
 on:
   schedule:
-    - cron: '0 0 31 2 *' # disabled
+    - cron: '0 * * * *'
   workflow_dispatch:
     inputs:
       dryRun:
